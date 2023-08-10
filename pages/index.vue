@@ -1,8 +1,6 @@
 <template>
-  <div class="container">
-    <h1 class="text-4xl font-medium text-blue-500">Home</h1>
-    <p>Test</p>
-    <a href="#">Test link</a>
+  <div>
+    <h1>page index</h1>
   </div>
 </template>
 
